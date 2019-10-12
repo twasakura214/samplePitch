@@ -1,6 +1,6 @@
 ### こんにちは！
 
-sample.vbの内容を表示
+sample.vbの内容を表示  
 ---?code=sample.vb
 
 +++
