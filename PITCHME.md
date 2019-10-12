@@ -17,8 +17,7 @@
 ---
 3枚目のスライド
 
-- var str1 = 'hello';
-- var flag = true;
-- var result = 10 + 20
----
+- var str1 = 'hello'; |
+- var flag = true; |
+- var result = 10 + 20 |
 @[2](コメント)
