@@ -10,11 +10,9 @@
 
 ###指定したコードをハイライト
 
----
 var str1 = 'hello';
 var flag = true;
 var result = 10 + 20
----
 @[2](コメント)
 
 ---
