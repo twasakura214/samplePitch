@@ -1,2 +1,0 @@
-# samplePitch
-GitPitchサンプル用
